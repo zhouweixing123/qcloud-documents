@@ -3,7 +3,6 @@
 ## 集成方式
 
 ### 使用 composer 引入
-```json
 {
     "require": {
         "qcloud/vod-sdk-v5": "v2.2.0"
